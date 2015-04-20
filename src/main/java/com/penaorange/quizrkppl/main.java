@@ -22,5 +22,7 @@ public class main {
         System.out.println("================");
         System.out.println("Faktorial");
         System.out.println("2 faktorial = "+ soal.faktorial(2));
+        
+        System.out.println("End of file");
     }
 }
